@@ -1,0 +1,14 @@
+# Joblist.txt
+# Lines that start with ‘#’ are to be considered comments and skipped
+
+#Arrival time# 	#Execution time#
+0			12 ms
+3			3 ms
+6			11 ms
+7			1 ms
+7			4 ms
+10			5 ms
+15			20 ms
+16			7 ms
+
+# and many more lines possible (arbitrary)
